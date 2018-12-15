@@ -1,0 +1,524 @@
+[
+	{
+		"ambientBiomes" : [
+			{
+				"biome" : "Taiga",
+				"time" : 1
+			},
+			{
+				"biome" : "TemperateForest",
+				"time" : 1
+			},
+			{
+				"biome" : "Mediterranean",
+				"time" : 1
+			}
+		],
+		"clipCollectionName" : "ambientForest",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./calm1.ogg"
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./calm2.ogg"
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./calm3.ogg"
+      }
+    ]
+	},
+	{
+		"ambientBiomes" : [
+			{
+				"biome" : "Taiga",
+				"time" : 2
+			},
+			{
+				"biome" : "TemperateForest",
+				"time" : 2
+			},
+			{
+				"biome" : "Mediterranean",
+				"time" : 2
+			},
+			{
+				"biome" : "RainForest",
+				"time" : 2
+			}
+		],
+		"clipCollectionName" : "ambientForestNight",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano1.ogg",
+        "volume": 0.2
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano2.ogg",
+        "volume": 0.2
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano3.ogg",
+        "volume": 0.2
+      }
+    ]
+	},
+	{
+		"ambientBiomes" : [
+			{
+				"biome" : "RainForest",
+				"time" : 1
+			}
+		],
+		"clipCollectionName" : "ambientJungle",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./hal1.ogg",
+        "volume": 0.08
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./hal2.ogg",
+        "volume": 0.08
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./hal3.ogg",
+        "volume": 0.08
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./hal4.ogg",
+        "volume": 0.08
+      }
+    ]
+	},
+	{
+		"ambientBiomes" : [
+			{
+				"biome" : "Ocean",
+				"time" : 3
+			}
+		],
+		"clipCollectionName" : "ambientOcean",
+		"fileList" : [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./dragon_fish.ogg",
+        "volume": 0.2
+      }
+		]
+	},
+	{
+		"ambientBiomes" : [
+			{
+				"biome" : "Savanna",
+				"time" : 3
+			}
+		],
+		"clipCollectionName" : "ambientSavanna",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano1.ogg",
+        "volume": 0.2
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano2.ogg",
+        "volume": 0.2
+      },
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "path": "./piano3.ogg",
+        "volume": 0.2
+      }
+    ]
+	},
+	{
+		"clipCollectionName" : "anvil",
+		"fileList" : [
+      {
+        "audioGroup": "Effects",
+        "path": "./anvil_use.ogg"
+      }
+		]
+	},
+	{
+		"clipCollectionName" : "arrowImpact",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "path": "./hit1.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./hit2.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./hit3.ogg",
+        "volume": 0.3
+      }
+    ]
+	},
+	{
+		"clipCollectionName" : "bowShoot",
+		"fileList" : [
+      {
+        "audioGroup": "Effects",
+        "path": "./bow.ogg"
+      }
+		]
+	},
+	{
+		"clipCollectionName" : "crafting",
+		"fileList" : [
+      {
+        "audioGroup": "Effects",
+        "path": "./chestopen.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./click.ogg"
+      }
+		]
+	},
+	{
+		"clipCollectionName" : "dirtPlace",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./dirtPlace1.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "fleshHit",
+		"fileList" : [
+			{
+				"audioGroup" : "Combat",
+				"path" : "./fleshHit.ogg",
+				"volume" : 0.3
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "footStep",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep1.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep2.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep3.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep4.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep5.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep6.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep7.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep8.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep9.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./footStep10.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "grassDelete",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./grassDelete1.ogg",
+				"volume" : 0.5
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./grassDelete2.ogg",
+				"volume" : 0.5
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "grunt",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./grunt1.ogg",
+				"volume" : 0.4
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./grunt2.ogg",
+				"volume" : 0.4
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./grunt3.ogg",
+				"volume" : 0.4
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./grunt4.ogg",
+				"volume" : 0.4
+			},
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./grunt5.ogg",
+				"volume" : 0.4
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "matchlock",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"path" : "./matchlock.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "punch",
+		"fileList" : [
+			{
+				"audioGroup" : "Combat",
+				"path" : "./punch1.ogg",
+				"volume" : 0.3
+			},
+			{
+				"audioGroup" : "Combat",
+				"path" : "./punch2.ogg",
+				"volume" : 0.3
+			},
+			{
+				"audioGroup" : "Combat",
+				"path" : "./punch3.ogg",
+				"volume" : 0.3
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "researchComplete",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./researchComplete.ogg",
+				"volume" : 0.6
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "siegeModeActive",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"isThreeD" : false,
+				"path" : "./siegeModeActive.ogg",
+				"volume" : 0.05
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "sling",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"path" : "./sling1.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"path" : "./sling2.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "stoneDelete",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stoneDelete1.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stoneDelete2.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stoneDelete3.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stoneDelete4.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stoneDelete5.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "stonePlace",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./stonePlace1.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "torch",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockLoop",
+				"path" : "./torch.ogg",
+				"volume" : 0.15
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "waterEmergeHead",
+		"fileList" : [
+			{
+				"audioGroup" : "WaterEffects",
+				"path" : "./waterEmergeHead1.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "waterSplashFeet",
+		"fileList" : [
+			{
+				"audioGroup" : "WaterEffects",
+				"path" : "./waterSplashFeet1.ogg"
+			},
+			{
+				"audioGroup" : "WaterEffects",
+				"path" : "./waterSplashFeet2.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "waterSubmergeHead",
+		"fileList" : [
+			{
+				"audioGroup" : "WaterEffects",
+				"path" : "./waterSubmergeHead1.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "woodCut",
+		"fileList" : [
+			{
+				"audioGroup" : "Effects",
+				"path" : "./woodCut1.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"path" : "./woodCut2.ogg"
+			},
+			{
+				"audioGroup" : "Effects",
+				"path" : "./woodCut3.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "woodDeleteHeavy",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./woodDeleteHeavy1.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./woodDeleteHeavy2.ogg"
+			},
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./woodDeleteHeavy3.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "woodDeleteLight",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./woodDeleteLight1.ogg"
+			}
+		]
+	},
+	{
+		"clipCollectionName" : "woodPlace",
+		"fileList" : [
+			{
+				"audioGroup" : "BlockEditing",
+				"path" : "./woodPlace1.ogg"
+			}
+		]
+	}
+]

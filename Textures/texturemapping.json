@@ -1,0 +1,13 @@
+{
+  "_settings": {
+    "defaultAlbedo": "./textures/materials/blocks/albedo/error.png",
+    "defaultEmissive": "./textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "defaultHeight": "./textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+    "defaultNormal": "./textures/materials/blocks/normal/neutral.png",
+    "fileExtension": ".png",
+    "folderAlbedo": "./textures/materials/blocks/albedo/",
+    "folderEmissive": "./textures/materials/blocks/emissiveMaskAlpha/",
+    "folderHeight": "./textures/materials/blocks/heightSmoothnessSpecularity/",
+    "folderNormal": "./textures/materials/blocks/normal/"
+  }
+}

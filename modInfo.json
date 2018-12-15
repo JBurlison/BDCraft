@@ -1,0 +1,40 @@
+﻿[
+  {
+    "name": "Pandaros.BDCraft",
+    "namepretty": "Pandaros' BDCraft Texture Pack",
+    "version": "0.1.0.0",
+    "enabled": true,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0"
+    ],
+    "overrideAlbedoFolder": "./Textures/albedo/",
+    "overrideEmissiveFolder": "./Textures/emissive/",
+    "overrideNormalFolder": "./Textures/height/",
+    "overrideHeightFolder": "./Textures/normal/",
+    "overrideIconFolder": "./icons/",
+    "overrideAudioFolder": "./Audio/",
+    "overrideNPCFolder": "./Textures/npc/",
+    "jsonFiles": [
+      {
+        "fileType": "addOrReplaceAudio",
+        "relativePath": "audio/audioFiles.json"
+      },
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "relativePath": "Textures/texturemapping.json"
+      }
+    ],
+    "website": "https://bdcraft.net/",
+    "about": "Replaces in game textures and sounds with BD Craft textures.",
+    "patchnotes": [
+      {
+        "version": "0.1.0.0",
+        "notes": [
+          "Initial Release",
+          ""
+        ]
+      }
+    ]
+  }
+]
