@@ -14,5 +14,35 @@
     "albedo": "straw_side",
     "height": "straw_side",
     "normal": "straw_side"
+  },
+  "workbenchBottom": {
+    "albedo": "workbenchBottom",
+    "height": "workbenchBottom",
+    "normal": "workbenchBottom"
+  },
+  "workbenchSide": {
+    "albedo": "workbenchSide",
+    "height": "workbenchSide",
+    "normal": "workbenchSide"
+  },
+  "ovenTop": {
+    "albedo": "ovenTop",
+    "height": "ovenTop",
+    "normal": "ovenTop"
+  },
+  "ovenUnlit": {
+    "albedo": "ovenlit",
+    "height": "ovenFront",
+    "normal": "ovenFront"
+  },
+  "ovenSide": {
+    "albedo": "ovenSide",
+    "height": "ovenSide",
+    "normal": "ovenSide"
+  },
+  "ovenUnlit": {
+    "albedo": "ovenUnlit",
+    "height": "ovenFront",
+    "normal": "ovenFront"
   }
 }

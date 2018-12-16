@@ -13,5 +13,145 @@
     "sidex-": "strawSide",
     "sidez+": "strawSide",
     "sidez-": "strawSide"
+  },
+  "workbench": {
+    "categories": [
+      "job"
+    ],
+    "icon": "./icons/workbench.png",
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "sidey+": "workbenchtop",
+    "sidey-": "workbenchBottom",
+    "sidex+": "workbenchSide",
+    "sidex-": "workbenchSide",
+    "sidez+": "workbenchSide",
+    "sidez-": "workbenchSide"
+  },
+
+  "ovenlit": {
+    "categories": [
+      "job"
+    ],
+    "icon": "./icons/oven.png",
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "isRotatable": true,
+    "needsBase": true,
+    "litTypeCustomData": {
+      "torches": {
+        "a": {
+          "color": "#c3872e",
+          "intensity": 2,
+          "offsetx": 0.55,
+          "offsety": -0.25,
+          "offsetz": 0,
+          "range": 8,
+          "volume": 0.2
+        }
+      }
+    },
+    "rotatablex+": "ovenlitx+",
+    "rotatablex-": "ovenlitx-",
+    "rotatablez+": "ovenlitz+",
+    "rotatablez-": "ovenlitz-",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenUnlit",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenlitx+": {
+    "parentType": "ovenlit",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenUnlit",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenlitx-": {
+    "parentType": "ovenlit",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenUnlit",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenlitz+": {
+    "parentType": "ovenlit",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenUnlit",
+    "sidez-": "ovenSide"
+  },
+  "ovenlitz-": {
+    "parentType": "ovenlit",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenUnlit"
+  },
+  "oven": {
+    "categories": [
+      "job"
+    ],
+    "icon": "./icons/oven.png",
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "isRotatable": true,
+    "needsBase": true,
+    "rotatablex+": "ovenx+",
+    "rotatablex-": "ovenx-",
+    "rotatablez+": "ovenz+",
+    "rotatablez-": "ovenz-",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenUnlit",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenx+": {
+    "parentType": "oven",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenUnlit",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenx-": {
+    "parentType": "oven",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenUnlit",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenSide"
+  },
+  "ovenz+": {
+    "parentType": "oven",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenUnlit",
+    "sidez-": "ovenSide"
+  },
+  "ovenz-": {
+    "parentType": "oven",
+    "sidey+": "ovenTop",
+    "sidey-": "ovenTop",
+    "sidex+": "ovenSide",
+    "sidex-": "ovenSide",
+    "sidez+": "ovenSide",
+    "sidez-": "ovenUnlit"
   }
 }
