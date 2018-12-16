@@ -23,6 +23,10 @@
       {
         "fileType": "addOrOverrideTextureMappingEntries",
         "relativePath": "Textures/texturemapping.json"
+      },
+      {
+        "fileType": "overrideTypeProperties",
+        "relativePath": "types.json"
       }
     ],
     "website": "https://bdcraft.net/",
@@ -31,8 +35,7 @@
       {
         "version": "0.1.0.0",
         "notes": [
-          "Initial Release",
-          ""
+          "Initial Release"
         ]
       }
     ]

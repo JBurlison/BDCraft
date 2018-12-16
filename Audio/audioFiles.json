@@ -57,20 +57,17 @@
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano1.ogg",
-        "volume": 0.2
+        "path": "./piano1.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano2.ogg",
-        "volume": 0.2
+        "path": "./piano2.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano3.ogg",
-        "volume": 0.2
+        "path": "./piano3.ogg"
       }
     ]
 	},
@@ -86,26 +83,22 @@
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./hal1.ogg",
-        "volume": 0.08
+        "path": "./hal1.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./hal2.ogg",
-        "volume": 0.08
+        "path": "./hal2.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./hal3.ogg",
-        "volume": 0.08
+        "path": "./hal3.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./hal4.ogg",
-        "volume": 0.08
+        "path": "./hal4.ogg"
       }
     ]
 	},
@@ -121,8 +114,7 @@
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./dragon_fish.ogg",
-        "volume": 0.2
+        "path": "./dragon_fish.ogg"
       }
 		]
 	},
@@ -138,20 +130,17 @@
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano1.ogg",
-        "volume": 0.2
+        "path": "./piano1.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano2.ogg",
-        "volume": 0.2
+        "path": "./piano2.ogg"
       },
       {
         "audioGroup": "AmbientLoop",
         "isThreeD": false,
-        "path": "./piano3.ogg",
-        "volume": 0.2
+        "path": "./piano3.ogg"
       }
     ]
 	},

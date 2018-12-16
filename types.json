@@ -1,0 +1,17 @@
+{
+
+  "straw": {
+    "categories": [
+      "decorative"
+    ],
+    "icon": "./icons/straw.png",
+    "maxStackSize": 100,
+    "onPlaceAudio": "dirtPlace",
+    "onRemoveAudio": "grassDelete",
+    "sideall": "SELF",
+    "sidex+": "strawSide",
+    "sidex-": "strawSide",
+    "sidez+": "strawSide",
+    "sidez-": "strawSide"
+  }
+}

@@ -1,9 +1,18 @@
 {
   "_settings": {
+    "defaultAlbedo": "./textures/materials/blocks/albedo/error.png",
+    "defaultEmissive": "./textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "defaultHeight": "./textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+    "defaultNormal": "./textures/materials/blocks/normal/neutral.png",
     "fileExtension": ".png",
-    "folderAlbedo": "./Textures/albedo/",
-    "folderEmissive": "./Textures/emissive/",
-    "folderHeight": "./Textures/height/",
-    "folderNormal": "./Textures/normal/"
+    "folderAlbedo": "./albedo/",
+    "folderEmissive": "./emissive/",
+    "folderHeight": "./height/",
+    "folderNormal": "./normal/"
+  },
+  "strawSide": {
+    "albedo": "straw_side",
+    "height": "straw_side",
+    "normal": "straw_side"
   }
 }
