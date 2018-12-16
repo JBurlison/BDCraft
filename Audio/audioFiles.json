@@ -157,12 +157,16 @@
 	},
 	{
 		"clipCollectionName" : "anvil",
-		"fileList" : [
+    "fileList": [
       {
         "audioGroup": "Effects",
         "path": "./anvil_use.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./anvil_use2.ogg"
       }
-		]
+    ]
 	},
 	{
 		"clipCollectionName" : "arrowImpact",
@@ -208,224 +212,149 @@
 	},
 	{
 		"clipCollectionName" : "dirtPlace",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./dirtPlace1.ogg"
-			}
-		]
+    "fileList": [
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass1.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass2.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass3.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass4.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass5.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass6.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass7.ogg"
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grass8.ogg"
+      }
+    ]
 	},
 	{
 		"clipCollectionName" : "fleshHit",
-		"fileList" : [
-			{
-				"audioGroup" : "Combat",
-				"path" : "./fleshHit.ogg",
-				"volume" : 0.3
-			}
-		]
+    "fileList": [
+      {
+        "audioGroup": "Combat",
+        "path": "./hit1.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Combat",
+        "path": "./hit2.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Combat",
+        "path": "./hit3.ogg",
+        "volume": 0.3
+      }
+    ]
 	},
 	{
 		"clipCollectionName" : "footStep",
 		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep1.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep2.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep3.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep4.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep5.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep6.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep7.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep8.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep9.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./footStep10.ogg"
-			}
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step1.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step2.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step3.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step4.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step5.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "path": "./grass_step6.ogg"
+      }
 		]
 	},
 	{
 		"clipCollectionName" : "grassDelete",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./grassDelete1.ogg",
-				"volume" : 0.5
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./grassDelete2.ogg",
-				"volume" : 0.5
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "grunt",
-		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./grunt1.ogg",
-				"volume" : 0.4
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./grunt2.ogg",
-				"volume" : 0.4
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./grunt3.ogg",
-				"volume" : 0.4
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./grunt4.ogg",
-				"volume" : 0.4
-			},
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./grunt5.ogg",
-				"volume" : 0.4
-			}
-		]
+    "fileList": [
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grassDelete1.ogg",
+        "volume": 0.5
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grassDelete2.ogg",
+        "volume": 0.5
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grassDelete3.ogg",
+        "volume": 0.5
+      },
+      {
+        "audioGroup": "BlockEditing",
+        "path": "./grassDelete4.ogg",
+        "volume": 0.5
+      }
+    ]
 	},
 	{
 		"clipCollectionName" : "matchlock",
 		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"path" : "./matchlock.ogg"
-			}
+      {
+        "audioGroup": "Effects",
+        "path": "./explode4.ogg",
+        "volume": 0.4
+      }
 		]
 	},
 	{
 		"clipCollectionName" : "punch",
 		"fileList" : [
-			{
-				"audioGroup" : "Combat",
-				"path" : "./punch1.ogg",
-				"volume" : 0.3
-			},
-			{
-				"audioGroup" : "Combat",
-				"path" : "./punch2.ogg",
-				"volume" : 0.3
-			},
-			{
-				"audioGroup" : "Combat",
-				"path" : "./punch3.ogg",
-				"volume" : 0.3
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "researchComplete",
-		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./researchComplete.ogg",
-				"volume" : 0.6
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "siegeModeActive",
-		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"isThreeD" : false,
-				"path" : "./siegeModeActive.ogg",
-				"volume" : 0.05
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "sling",
-		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"path" : "./sling1.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"path" : "./sling2.ogg"
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "stoneDelete",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stoneDelete1.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stoneDelete2.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stoneDelete3.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stoneDelete4.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stoneDelete5.ogg"
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "stonePlace",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./stonePlace1.ogg"
-			}
+      {
+        "audioGroup": "Combat",
+        "path": "./hurtflesh1.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Combat",
+        "path": "./hurtflesh2.ogg",
+        "volume": 0.3
+      },
+      {
+        "audioGroup": "Combat",
+        "path": "./hurtflesh3.ogg",
+        "volume": 0.3
+      }
 		]
 	},
 	{
@@ -433,7 +362,7 @@
 		"fileList" : [
 			{
 				"audioGroup" : "BlockLoop",
-				"path" : "./torch.ogg",
+				"path" : "./fire.ogg",
 				"volume" : 0.15
 			}
 		]
@@ -441,84 +370,61 @@
 	{
 		"clipCollectionName" : "waterEmergeHead",
 		"fileList" : [
-			{
-				"audioGroup" : "WaterEffects",
-				"path" : "./waterEmergeHead1.ogg"
-			}
+      {
+        "audioGroup": "WaterEffects",
+        "path": "./swim1.ogg"
+      }
 		]
 	},
 	{
 		"clipCollectionName" : "waterSplashFeet",
-		"fileList" : [
-			{
-				"audioGroup" : "WaterEffects",
-				"path" : "./waterSplashFeet1.ogg"
-			},
-			{
-				"audioGroup" : "WaterEffects",
-				"path" : "./waterSplashFeet2.ogg"
-			}
-		]
+    "fileList": [
+      {
+        "audioGroup": "WaterEffects",
+        "path": "./splash.ogg"
+      },
+      {
+        "audioGroup": "WaterEffects",
+        "path": "./splash1.ogg"
+      },
+      {
+        "audioGroup": "WaterEffects",
+        "path": "./splash2.ogg"
+      }
+    ]
 	},
 	{
 		"clipCollectionName" : "waterSubmergeHead",
 		"fileList" : [
-			{
-				"audioGroup" : "WaterEffects",
-				"path" : "./waterSubmergeHead1.ogg"
-			}
+      {
+        "audioGroup": "WaterEffects",
+        "path": "./swim4.ogg"
+      }
 		]
 	},
 	{
 		"clipCollectionName" : "woodCut",
-		"fileList" : [
-			{
-				"audioGroup" : "Effects",
-				"path" : "./woodCut1.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"path" : "./woodCut2.ogg"
-			},
-			{
-				"audioGroup" : "Effects",
-				"path" : "./woodCut3.ogg"
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "woodDeleteHeavy",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./woodDeleteHeavy1.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./woodDeleteHeavy2.ogg"
-			},
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./woodDeleteHeavy3.ogg"
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "woodDeleteLight",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./woodDeleteLight1.ogg"
-			}
-		]
-	},
-	{
-		"clipCollectionName" : "woodPlace",
-		"fileList" : [
-			{
-				"audioGroup" : "BlockEditing",
-				"path" : "./woodPlace1.ogg"
-			}
-		]
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "path": "./wood.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./wood1.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./wood2.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./wood3.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./wood4.ogg"
+      }
+    ]
 	}
 ]
