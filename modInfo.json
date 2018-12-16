@@ -18,7 +18,7 @@
     "jsonFiles": [
       {
         "fileType": "addOrReplaceAudio",
-        "relativePath": "audio/audioFiles.json"
+        "relativePath": "./Audio/audioFiles.json"
       },
       {
         "fileType": "addOrOverrideTextureMappingEntries",
