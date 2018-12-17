@@ -1,26 +1,12 @@
 {
 
   "straw": {
-    "categories": [
-      "decorative"
-    ],
-    "icon": "./icons/straw.png",
-    "maxStackSize": 100,
-    "onPlaceAudio": "dirtPlace",
-    "onRemoveAudio": "grassDelete",
-    "sideall": "SELF",
     "sidex+": "strawSide",
     "sidex-": "strawSide",
     "sidez+": "strawSide",
     "sidez-": "strawSide"
   },
   "workbench": {
-    "categories": [
-      "job"
-    ],
-    "icon": "./icons/workbench.png",
-    "onPlaceAudio": "woodPlace",
-    "onRemoveAudio": "woodDeleteLight",
     "sidey+": "workbenchtop",
     "sidey-": "workbenchBottom",
     "sidex+": "workbenchSide",
@@ -30,31 +16,6 @@
   },
 
   "ovenlit": {
-    "categories": [
-      "job"
-    ],
-    "icon": "./icons/oven.png",
-    "onPlaceAudio": "woodPlace",
-    "onRemoveAudio": "woodDeleteLight",
-    "isRotatable": true,
-    "needsBase": true,
-    "litTypeCustomData": {
-      "torches": {
-        "a": {
-          "color": "#c3872e",
-          "intensity": 2,
-          "offsetx": 0.55,
-          "offsety": -0.25,
-          "offsetz": 0,
-          "range": 8,
-          "volume": 0.2
-        }
-      }
-    },
-    "rotatablex+": "ovenlitx+",
-    "rotatablex-": "ovenlitx-",
-    "rotatablez+": "ovenlitz+",
-    "rotatablez-": "ovenlitz-",
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
     "sidex+": "ovenlit",
@@ -99,18 +60,6 @@
     "sidez-": "ovenlit"
   },
   "oven": {
-    "categories": [
-      "job"
-    ],
-    "icon": "./icons/oven.png",
-    "onPlaceAudio": "woodPlace",
-    "onRemoveAudio": "woodDeleteLight",
-    "isRotatable": true,
-    "needsBase": true,
-    "rotatablex+": "ovenx+",
-    "rotatablex-": "ovenx-",
-    "rotatablez+": "ovenz+",
-    "rotatablez-": "ovenz-",
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
     "sidex+": "ovenUnlit",
