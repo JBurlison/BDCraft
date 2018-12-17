@@ -30,8 +30,8 @@
     "height": "ovenTop",
     "normal": "ovenTop"
   },
-  "ovenUnlit": {
-    "albedo": "ovenlit",
+  "ovenlit": {
+    "albedo": "ovenLit",
     "height": "ovenFront",
     "normal": "ovenFront"
   },

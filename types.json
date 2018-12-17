@@ -57,7 +57,7 @@
     "rotatablez-": "ovenlitz-",
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
-    "sidex+": "ovenUnlit",
+    "sidex+": "ovenlit",
     "sidex-": "ovenSide",
     "sidez+": "ovenSide",
     "sidez-": "ovenSide"
@@ -66,7 +66,7 @@
     "parentType": "ovenlit",
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
-    "sidex+": "ovenUnlit",
+    "sidex+": "ovenlit",
     "sidex-": "ovenSide",
     "sidez+": "ovenSide",
     "sidez-": "ovenSide"
@@ -76,7 +76,7 @@
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
     "sidex+": "ovenSide",
-    "sidex-": "ovenUnlit",
+    "sidex-": "ovenlit",
     "sidez+": "ovenSide",
     "sidez-": "ovenSide"
   },
@@ -86,7 +86,7 @@
     "sidey-": "ovenTop",
     "sidex+": "ovenSide",
     "sidex-": "ovenSide",
-    "sidez+": "ovenUnlit",
+    "sidez+": "ovenlit",
     "sidez-": "ovenSide"
   },
   "ovenlitz-": {
@@ -96,7 +96,7 @@
     "sidex+": "ovenSide",
     "sidex-": "ovenSide",
     "sidez+": "ovenSide",
-    "sidez-": "ovenUnlit"
+    "sidez-": "ovenlit"
   },
   "oven": {
     "categories": [
