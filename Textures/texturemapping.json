@@ -44,5 +44,26 @@
     "albedo": "ovenUnlit",
     "height": "ovenFront",
     "normal": "ovenFront"
+  },
+  "furnaceLitTop": {
+    "albedo": "furnaceLitTop",
+    "emissive": "furnaceLitTop",
+    "height": "furnaceLitTop",
+    "normal": "furnaceLitTop"
+  },
+  "furnaceBottom": {
+    "albedo": "furnaceBottom",
+    "height": "workbenchBottom",
+    "normal": "workbenchBottom"
+  },
+  "furnaceSide": {
+    "albedo": "furnaceSide",
+    "height": "furnaceSide",
+    "normal": "furnaceSide"
+  },
+  "furnaceUnlitTop": {
+    "albedo": "furnaceUnlitTop",
+    "height": "furnaceUnlitTop",
+    "normal": "furnaceUnlitTop"
   }
 }
