@@ -6,6 +6,14 @@
     "sidez+": "strawSide",
     "sidez-": "strawSide"
   },
+  "crate": {
+    "sidey+": "crateTop",
+    "sidey-": "crateTop",
+    "sidex+": "crate",
+    "sidex-": "crate",
+    "sidez+": "crate",
+    "sidez-": "crate"
+  },
   "workbench": {
     "sidey+": "workbenchtop",
     "sidey-": "workbenchBottom",
