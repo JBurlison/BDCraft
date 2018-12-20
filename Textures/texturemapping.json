@@ -65,15 +65,5 @@
     "albedo": "furnaceUnlitTop",
     "height": "furnaceUnlitTop",
     "normal": "furnaceUnlitTop"
-  },
-  "crate": {
-    "albedo": "crate",
-    "height": "crate",
-    "normal": "crate"
-  },
-  "crateTop": {
-    "albedo": "crateTop",
-    "height": "crateTop",
-    "normal": "crateTop"
   }
 }
