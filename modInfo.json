@@ -27,6 +27,10 @@
       {
         "fileType": "overrideTypeProperties",
         "relativePath": "types.json"
+      },
+      {
+        "fileType": "setColonistTextures",
+        "relativePath": "Textures/npcTexture.json"
       }
     ],
     "website": "https://github.com/JBurlison/BDCraft",
