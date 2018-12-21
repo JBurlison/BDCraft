@@ -2,7 +2,7 @@
   {
     "name": "Pandaros.BDCraft",
     "namepretty": "Pandaros' BDCraft Texture Pack",
-    "version": "0.1.0.0",
+    "version": "0.1.0.1",
     "enabled": true,
     "marksgamemodded": true,
     "compatibleversions": [
@@ -27,6 +27,11 @@
       {
         "fileType": "overrideTypeProperties",
         "relativePath": "types.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": -99999,
+        "relativePath": "npcTypes.json"
       },
       {
         "albedo": "base_npc_albedo.png",
