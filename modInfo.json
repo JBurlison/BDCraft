@@ -29,8 +29,12 @@
         "relativePath": "types.json"
       },
       {
+        "albedo": "base_npc_albedo.png",
         "fileType": "setColonistTextures",
-        "relativePath": "Textures/npcTexture.json"
+        "index": -99999,
+        "normal": "base_npc_normal.png",
+        "relativePath": "Textures/npc/",
+        "special": "base_npc_specu_emiss_smooth_mask.png"
       }
     ],
     "website": "https://github.com/JBurlison/BDCraft",
