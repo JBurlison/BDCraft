@@ -1,4 +1,7 @@
 {
+  "npcshop": {
+    "sideall": "SELF"
+  },
   "straw": {
     "sidex+": "strawSide",
     "sidex-": "strawSide",

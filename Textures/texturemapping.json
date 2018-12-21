@@ -10,6 +10,11 @@
     "folderHeight": "./height/",
     "folderNormal": "./normal/"
   },
+  "npcshop": {
+    "albedo": "npcshop",
+    "height": "npcshop",
+    "normal": "npcshop"
+  },
   "strawSide": {
     "albedo": "straw_side",
     "height": "straw_side",
