@@ -1,0 +1,31 @@
+[
+  {
+    "baseType": {
+      "categories": [ "job" ],
+      "mesh": "neutral",
+      "needsBase": true,
+      "onPlaceAudio": "stonePlace",
+      "onRemoveAudio": "stoneDelete",
+      "icon": "./icons/bronzeanvil.png",
+      "sideall": "stonebricks",
+      "sidey+": "bronzeanvil"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "bronzeanvil"
+  },
+  {
+    "baseType": {
+      "categories": [ "job" ],
+      "icon": "./icons/writerdesk.png",
+      "mesh": "neutral",
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "writerdeskside",
+      "sidey+": "writerdesk",
+      "sidey-": "workbenchBottom"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "writerdesk"
+  }
+]

@@ -1,14 +1,40 @@
 {
+  "stove": {
+    "mesh": "neutral",
+    "sideall": "stoveside",
+    "sidey+": "stovetop",
+    "sidey-": "stovebottom"
+  },
+  "grindstone": {
+    "mesh": "neutral",
+    "sideall": "planks",
+    "sidey+": "grindstone"
+  },
+  "chickencoop": {
+    "mesh": "neutral",
+    "sideall": "chickencoopside",
+    "sidey+": "chickencooptop",
+    "sidex+": "chickencoopfront"
+  },
+  "beehive": {
+    "mesh": "neutral",
+    "sideall": "SELF",
+    "sidey+": "beehivetop",
+    "sidey-": "beehiveBottom"
+  },
   "npcshop": {
+    "mesh": "neutral",
     "sideall": "SELF"
   },
   "straw": {
+    "mesh": "neutral",
     "sidex+": "strawSide",
     "sidex-": "strawSide",
     "sidez+": "strawSide",
     "sidez-": "strawSide"
   },
   "workbench": {
+    "mesh": "neutral",
     "sidey+": "workbenchtop",
     "sidey-": "workbenchBottom",
     "sidex+": "workbenchSide",
@@ -17,6 +43,7 @@
     "sidez-": "workbenchSide"
   },
   "ovenlit": {
+    "mesh": "neutral",
     "sidey+": "ovenTop",
     "sidey-": "ovenTop",
     "sidex+": "ovenlit",
@@ -106,6 +133,7 @@
   },
 
   "furnacelit": {
+    "mesh": "neutral",
     "sidey+": "furnaceLitTop",
     "sidey-": "furnaceBottom",
     "sidex+": "furnaceSide",
@@ -114,6 +142,7 @@
     "sidez-": "furnaceSide"
   },
   "furnace": {
+    "mesh": "neutral",
     "sidey+": "furnaceUnlitTop",
     "sidey-": "furnaceBottom",
     "sidex+": "furnaceSide",

@@ -40,6 +40,11 @@
         "normal": "base_npc_normal.png",
         "relativePath": "Textures/npc/",
         "special": "base_npc_specu_emiss_smooth_mask.png"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": -99999,
+        "relativePath": "generateblocks.json"
       }
     ],
     "website": "https://github.com/JBurlison/BDCraft",
