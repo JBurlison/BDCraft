@@ -10,6 +10,11 @@
     "folderHeight": "./height/",
     "folderNormal": "./normal/"
   },
+  "wellTop": {
+    "albedo": "welltop",
+    "height": "welltop",
+    "normal": "welltop"
+  },
   "writerdeskside": {
     "albedo": "writerdeskside",
     "height": "writerdeskside",
