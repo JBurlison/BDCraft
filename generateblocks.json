@@ -27,5 +27,82 @@
     },
     "generateType": "rotateBlock",
     "typeName": "writerdesk"
+  },
+  {
+    "baseType": {
+      "categories": [ "job" ],
+      "destructionTime": 800,
+      "icon": "gamedata/textures/icons/oven.png",
+      "onPlaceAudio": "stonePlace",
+      "onRemoveAudio": "stoneDelete",
+      "sidey+": "ovenTop",
+      "sidey-": "ovenTop",
+      "sidex+": "ovenUnlit",
+      "sidex-": "ovenSide",
+      "sidez+": "ovenSide",
+      "sidez-": "ovenSide"
+    },
+    "generateType": "rotateBlock",
+    "litTypeCustomData": {
+      "torches": {
+        "a": {
+          "color": "#c3872e",
+          "intensity": 2,
+          "offsetx": 0.55,
+          "offsety": -0.25,
+          "offsetz": 0,
+          "range": 8,
+          "volume": 0.2
+        }
+      }
+    },
+    "sideFrontLit": "ovenlit",
+    "sideFrontUnlit": "ovenUnlit",
+    "sideTopLit": "ovenTop",
+    "sideTopUnlit": "ovenTop",
+    "typeName": "oven"
+  },
+  {
+    "baseType": {
+      "categories": [ "job" ],
+      "destructionTime": 800,
+      "icon": "gamedata/textures/icons/furnace.png",
+      "onPlaceAudio": "stonePlace",
+      "onRemoveAudio": "stoneDelete",
+      "sidey+": "furnaceUnlitTop",
+      "sidey-": "furnaceBottom",
+      "sidex+": "furnaceSide",
+      "sidex-": "furnaceSide",
+      "sidez+": "furnaceSide",
+      "sidez-": "furnaceSide"
+    },
+    "generateType": "rotateBlock",
+    "litTypeCustomData": {
+      "torches": {
+        "a": {
+          "color": "#c3872e",
+          "intensity": 2.5,
+          "offsetx": 0,
+          "offsety": 0.55,
+          "offsetz": 0,
+          "range": 8,
+          "volume": 0.3
+        },
+        "b": {
+          "color": "#c3872e",
+          "intensity": 1,
+          "offsetx": 0.55,
+          "offsety": -0.25,
+          "offsetz": 0,
+          "range": 8,
+          "volume": 0.2
+        }
+      }
+    },
+    "sideFrontLit": "furnacelitfront",
+    "sideFrontUnlit": "furnaceunlitfront",
+    "sideTopLit": "furnaceLitTop",
+    "sideTopUnlit": "furnaceUnlitTop",
+    "typeName": "furnace"
   }
 ]
