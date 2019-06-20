@@ -37,10 +37,7 @@
       "onRemoveAudio": "stoneDelete",
       "sidey+": "ovenTop",
       "sidey-": "ovenTop",
-      "sidex+": "ovenUnlit",
-      "sidex-": "ovenSide",
-      "sidez+": "ovenSide",
-      "sidez-": "ovenSide"
+      "sideall": "ovenSide"
     },
     "generateType": "rotateBlock",
     "litTypeCustomData": {
@@ -58,8 +55,6 @@
     },
     "sideFrontLit": "ovenlit",
     "sideFrontUnlit": "ovenUnlit",
-    "sideTopLit": "ovenTop",
-    "sideTopUnlit": "ovenTop",
     "typeName": "oven"
   },
   {

@@ -137,6 +137,12 @@
     "height": "furnaceFront",
     "normal": "furnaceFront"
   },
+  "furnaceunlitfront": {
+    "albedo": "furnaceUnlitFront",
+    "emissive": "neutral",
+    "height": "furnaceFront",
+    "normal": "furnaceFront"
+  },
   "furnaceBottom": {
     "albedo": "furnaceBottom",
     "height": "workbenchBottom",
