@@ -29,11 +29,6 @@
         "relativePath": "types.json"
       },
       {
-        "fileType": "addOrReplaceNPCTypes",
-        "index": -99999,
-        "relativePath": "npcTypes.json"
-      },
-      {
         "albedo": "base_npc_albedo.png",
         "fileType": "setColonistTextures",
         "index": -99999,
