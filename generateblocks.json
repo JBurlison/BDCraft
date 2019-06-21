@@ -66,10 +66,7 @@
       "onRemoveAudio": "stoneDelete",
       "sidey+": "furnaceUnlitTop",
       "sidey-": "furnaceBottom",
-      "sidex+": "furnaceSide",
-      "sidex-": "furnaceSide",
-      "sidez+": "furnaceSide",
-      "sidez-": "furnaceSide"
+      "sideall": "furnaceSide"
     },
     "generateType": "rotateBlock",
     "litTypeCustomData": {
