@@ -16,11 +16,6 @@
     "sidey+": "chickencooptop",
     "sidex+": "chickencoopfront"
   },
-  "waterpump": {
-    "mesh": "neutral",
-    "sidell": "stonebricks",
-    "sidey+": "wellTop"
-  },
   "beehive": {
     "mesh": "neutral",
     "sideall": "SELF",

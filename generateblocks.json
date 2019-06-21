@@ -60,13 +60,30 @@
   {
     "baseType": {
       "categories": [ "job" ],
+      "icon": "./icons/waterpump.png",
+      "mesh": "neutral",
+      "sidell": "stonebricks",
+      "sidey+": "wellTop",
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "waterpump"
+  },
+  {
+    "baseType": {
+      "categories": [ "job" ],
       "destructionTime": 800,
       "icon": "gamedata/textures/icons/furnace.png",
       "onPlaceAudio": "stonePlace",
       "onRemoveAudio": "stoneDelete",
       "sidey+": "furnaceUnlitTop",
       "sidey-": "furnaceBottom",
-      "sideall": "furnaceSide"
+      "sidex+": "furnaceSide",
+      "sidex-": "furnaceSide",
+      "sidez+": "furnaceSide",
+      "sidez-": "furnaceSide"
     },
     "generateType": "rotateBlock",
     "litTypeCustomData": {
