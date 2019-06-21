@@ -41,5 +41,15 @@
     "sidex-": "workbenchSide",
     "sidez+": "workbenchSide",
     "sidez-": "workbenchSide"
+  },
+  "logtaiga": {
+    "sideall": "SELF",
+    "sidey+": "logtaigaEnd",
+    "sidey-": "logtaigaEnd"
+  },
+  "logtemperate": {
+    "sideall": "SELF",
+    "sidey+": "logtemperateEnd",
+    "sidey-": "logtemperateEnd"
   }
 }

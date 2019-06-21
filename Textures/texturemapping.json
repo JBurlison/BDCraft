@@ -157,5 +157,15 @@
     "albedo": "furnaceUnlitTop",
     "height": "furnaceUnlitTop",
     "normal": "furnaceUnlitTop"
+  },
+  "logtaigaEnd": {
+    "albedo": "logTaiga_top",
+    "height": "logtop",
+    "normal": "logtop"
+  },
+  "logtemperateEnd": {
+    "albedo": "logTemperate_top",
+    "height": "logtop",
+    "normal": "logtop"
   }
 }
