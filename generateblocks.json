@@ -2,7 +2,6 @@
   {
     "baseType": {
       "categories": [ "job" ],
-      "mesh": "neutral",
       "needsBase": true,
       "onPlaceAudio": "stonePlace",
       "onRemoveAudio": "stoneDelete",
@@ -17,7 +16,6 @@
     "baseType": {
       "categories": [ "job" ],
       "icon": "./icons/writerdesk.png",
-      "mesh": "neutral",
       "needsBase": true,
       "onPlaceAudio": "woodPlace",
       "onRemoveAudio": "woodDeleteLight",
@@ -61,7 +59,6 @@
     "baseType": {
       "categories": [ "job" ],
       "icon": "./icons/waterpump.png",
-      "mesh": "neutral",
       "sidell": "stonebricks",
       "sidey+": "wellTop",
       "needsBase": true,
