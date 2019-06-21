@@ -5,15 +5,18 @@
     "sidey-": "stovebottom"
   },
   "grindstone": {
+    "mesh": "neutral",
     "sideall": "planks",
     "sidey+": "grindstone"
   },
   "chickencoop": {
+    "mesh": "neutral",
     "sideall": "chickencoopside",
     "sidey+": "chickencooptop",
     "sidex+": "chickencoopfront"
   },
   "beehive": {
+    "mesh": "neutral",
     "sideall": "SELF",
     "sidey+": "beehivetop",
     "sidey-": "beehiveBottom"

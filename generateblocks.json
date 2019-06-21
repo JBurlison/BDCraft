@@ -16,6 +16,7 @@
     "baseType": {
       "categories": [ "job" ],
       "icon": "./icons/writerdesk.png",
+      "mesh": "neutral",
       "needsBase": true,
       "onPlaceAudio": "woodPlace",
       "onRemoveAudio": "woodDeleteLight",
@@ -57,6 +58,7 @@
   },
   {
     "baseType": {
+      "mesh": "neutral",
       "categories": [ "job" ],
       "icon": "./icons/waterpump.png",
       "sidell": "stonebricks",
