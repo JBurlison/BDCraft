@@ -58,14 +58,13 @@
   },
   {
     "baseType": {
-      "mesh": "neutral",
       "categories": [ "job" ],
-      "icon": "./icons/waterpump.png",
-      "sidell": "stonebricks",
-      "sidey+": "wellTop",
+      "icon": "gamedata/textures/icons/waterpump.png",
       "needsBase": true,
       "onPlaceAudio": "woodPlace",
-      "onRemoveAudio": "woodDeleteLight"
+      "onRemoveAudio": "woodDeleteLight",
+      "sidell": "stonebricks",
+      "sidey+": "wellTop"
     },
     "generateType": "rotateBlock",
     "typeName": "waterpump"
