@@ -1,5 +1,6 @@
 {
   "stove": {
+    "mesh": "neutral",
     "sideall": "stoveside",
     "sidey+": "stovetop",
     "sidey-": "stovebottom"
@@ -22,6 +23,7 @@
     "sidey-": "beehiveBottom"
   },
   "npcshop": {
+    "mesh": "neutral",
     "sideall": "SELF"
   },
   "straw": {
