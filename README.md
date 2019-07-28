@@ -2,6 +2,7 @@
 
 Colony Survival Texture Pack based on BDCraft https://bdcraft.net/
 
+### [Become a Patron!](https://www.patreon.com/bePatron?u=4005274)
 
 ![](https://i.imgur.com/VJG7fMq.png "Preview Colony Survival BDCraft")
 ![](https://cdn.discordapp.com/attachments/370991159390109717/525796518029164574/unknown.png)
