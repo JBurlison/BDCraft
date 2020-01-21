@@ -1,0 +1,1013 @@
+{
+	"adobe": {
+		"icon": "./icons/adobe.png"
+	},
+	"alkanet": {
+		"icon": "./icons/alkanet.png"
+	},
+	"alkanetstage1": {
+		"icon": "./icons/alkanetstage1.png"
+	},
+	"banana": {
+		"icon": "./icons/banana.png"
+	},
+	"bananatree": {
+		"icon": "./icons/banana.png"
+	},
+	"banner": {
+		"icon": "./icons/banner.png"
+	},
+	"barley": {
+		"icon": "./icons/barley.png"
+	},
+	"barleystage1": {
+		"icon": "./icons/barleystage1.png"
+	},
+	"bed": {
+		"icon": "./icons/bed.png"
+	},
+	"bedend": {
+		"icon": "./icons/bed.png"
+	},
+	"bedendx+": {
+		"icon": "./icons/bed.png"
+	},
+	"bedendx-": {
+		"icon": "./icons/bed.png"
+	},
+	"bedendz+": {
+		"icon": "./icons/bed.png"
+	},
+	"bedendz-": {
+		"icon": "./icons/bed.png"
+	},
+	"bedx+": {
+		"icon": "./icons/bed.png"
+	},
+	"bedx-": {
+		"icon": "./icons/bed.png"
+	},
+	"bedz+": {
+		"icon": "./icons/bed.png"
+	},
+	"bedz-": {
+		"icon": "./icons/bed.png"
+	},
+	"beehive": {
+		"icon": "./icons/beehive.png"
+	},
+	"beeswax": {
+		"icon": "./icons/beeswax.png"
+	},
+	"berry": {
+		"icon": "./icons/berry.png"
+	},
+	"berrybush": {
+		"icon": "./icons/berrybush.png"
+	},
+	"blackplanks": {
+		"icon": "./icons/blackplanks.png"
+	},
+	"bloomery": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomerylit": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomerylitx+": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomerylitx-": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomerylitz+": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomerylitz-": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomeryx+": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomeryx-": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomeryz+": {
+		"icon": "./icons/bloomery.png"
+	},
+	"bloomeryz-": {
+		"icon": "./icons/bloomery.png"
+	},
+	"boilingwater": {
+		"icon": "./icons/boilingwater.png"
+	},
+	"book": {
+		"icon": "./icons/book.png"
+	},
+	"bow": {
+		"icon": "./icons/bow.png"
+	},
+	"bowstring": {
+		"icon": "./icons/bowstring.png"
+	},
+	"bread": {
+		"icon": "./icons/bread.png"
+	},
+	"bricks": {
+		"icon": "./icons/bricks.png"
+	},
+	"bricksblack": {
+		"icon": "./icons/bricksblack.png"
+	},
+	"bricksdarkred": {
+		"icon": "./icons/bricksdarkred.png"
+	},
+	"bricksdarkyellow": {
+		"icon": "./icons/bricksdarkyellow.png"
+	},
+	"bricksred": {
+		"icon": "./icons/bricksred.png"
+	},
+	"bronzeanvil": {
+		"icon": "./icons/bronzeanvil.png"
+	},
+	"bronzeanvilx+": {
+		"icon": "./icons/bronzeanvil.png"
+	},
+	"bronzeanvilx-": {
+		"icon": "./icons/bronzeanvil.png"
+	},
+	"bronzeanvilz+": {
+		"icon": "./icons/bronzeanvil.png"
+	},
+	"bronzeanvilz-": {
+		"icon": "./icons/bronzeanvil.png"
+	},
+	"bronzearrow": {
+		"icon": "./icons/bronzearrow.png"
+	},
+	"bronzeaxe": {
+		"icon": "./icons/bronzeaxe.png"
+	},
+	"bronzecoin": {
+		"icon": "./icons/bronzecoin.png"
+	},
+	"bronzeingot": {
+		"icon": "./icons/bronzeingot.png"
+	},
+	"bronzepickaxe": {
+		"icon": "./icons/bronzepickaxe.png"
+	},
+	"bronzeplate": {
+		"icon": "./icons/bronzeplate.png"
+	},
+	"bucketempty": {
+		"icon": "./icons/bucketempty.png"
+	},
+	"bucketwater": {
+		"icon": "./icons/bucketwater.png"
+	},
+	"cabbage": {
+		"icon": "./icons/cabbage.png"
+	},
+	"cabbagestage1": {
+		"icon": "./icons/cabbagestage1.png"
+	},
+	"cake": {
+		"icon": "./icons/cake.png"
+	},
+	"candle": {
+		"icon": "./icons/candle.png"
+	},
+	"carpetblue": {
+		"icon": "./icons/carpetblue.png"
+	},
+	"carpetred": {
+		"icon": "./icons/carpetred.png"
+	},
+	"carpetwhite": {
+		"icon": "./icons/carpetwhite.png"
+	},
+	"carpetyellow": {
+		"icon": "./icons/carpetyellow.png"
+	},
+	"cassava": {
+		"icon": "./icons/cassava.png"
+	},
+	"charcoal": {
+		"icon": "./icons/charcoal.png"
+	},
+	"cherryblossom": {
+		"icon": "./icons/cherryblossom.png"
+	},
+	"cherrysapling": {
+		"icon": "./icons/sapling.png"
+	},
+	"cherrysaplingsmall": {
+		"icon": "./icons/sapling.png"
+	},
+	"chickencoop": {
+		"icon": "./icons/chickencoop.png"
+	},
+	"chickenmeat": {
+		"icon": "./icons/chickenmeat.png"
+	},
+	"clay": {
+		"icon": "./icons/clay.png"
+	},
+	"coalore": {
+		"icon": "./icons/coalore.png"
+	},
+	"coatedplanks": {
+		"icon": "./icons/coatedplanks.png"
+	},
+	"cobblestoneblack": {
+		"icon": "./icons/cobblestoneblack.png"
+	},
+	"cobblestoneblue": {
+		"icon": "./icons/cobblestoneblue.png"
+	},
+	"cobblestonebrown": {
+		"icon": "./icons/cobblestonebrown.png"
+	},
+	"cobblestonegrey": {
+		"icon": "./icons/cobblestonegrey.png"
+	},
+	"cobblestonered": {
+		"icon": "./icons/cobblestonered.png"
+	},
+	"coffee": {
+		"icon": "./icons/coffee.png"
+	},
+	"coffeebeans": {
+		"icon": "./icons/coffeebeans.png"
+	},
+	"cokes": {
+		"icon": "./icons/cokes.png"
+	},
+	"colonykit": {
+		"icon": "./icons/commandtool.png"
+	},
+	"commandtool": {
+		"icon": "./icons/commandtool.png"
+	},
+	"cookedfish": {
+		"icon": "./icons/fishcooked.png"
+	},
+	"copper": {
+		"icon": "./icons/copper.png"
+	},
+	"coppernails": {
+		"icon": "./icons/coppernails.png"
+	},
+	"copperparts": {
+		"icon": "./icons/copperparts.png"
+	},
+	"coppertools": {
+		"icon": "./icons/coppertools.png"
+	},
+	"cotton": {
+		"icon": "./icons/cotton.png"
+	},
+	"cottonraw": {
+		"icon": "./icons/cottonraw.png"
+	},
+	"cottonthread": {
+		"icon": "./icons/cottonthread.png"
+	},
+	"cottontowel": {
+		"icon": "./icons/cottontowel.png"
+	},
+	"crate": {
+		"icon": "./icons/crate.png"
+	},
+	"cratebread": {
+		"icon": "./icons/cratebread.png"
+	},
+	"crossbow": {
+		"icon": "./icons/crossbow.png"
+	},
+	"crossbowbolt": {
+		"icon": "./icons/crossbowbolt.png"
+	},
+	"crystal": {
+		"icon": "./icons/crystal.png"
+	},
+	"darkstone": {
+		"icon": "./icons/darkstone.png"
+	},
+	"diamond": {
+		"icon": "./icons/diamond.png"
+	},
+	"diamondnecklace": {
+		"icon": "./icons/diamondnecklace.png"
+	},
+	"dirt": {
+		"icon": "./icons/dirt.png"
+	},
+	"dyertable": {
+		"icon": "./icons/dyertable.png"
+	},
+	"egg": {
+		"icon": "./icons/egg.png"
+	},
+	"erroridle": {
+		"icon": "./icons/errorIdle.png"
+	},
+	"errornopath": {
+		"icon": "./icons/errorNoPath.png"
+	},
+	"feather": {
+		"icon": "./icons/feather.png"
+	},
+	"fineryforge": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgelit": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgelitx+": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgelitx-": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgelitz+": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgelitz-": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgex+": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgex-": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgez+": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"fineryforgez-": {
+		"icon": "./icons/fineryforge.png"
+	},
+	"firewood": {
+		"icon": "./icons/firewood.png"
+	},
+	"fishmeal": {
+		"icon": "./icons/fishmeal.png"
+	},
+	"flax": {
+		"icon": "./icons/flax.png"
+	},
+	"flaxstage1": {
+		"icon": "./icons/flaxstage1.png"
+	},
+	"flour": {
+		"icon": "./icons/flour.png"
+	},
+	"foofoo": {
+		"icon": "./icons/foofoo.png"
+	},
+	"fur": {
+		"icon": "./icons/fur.png"
+	},
+	"furnace": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacelit": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacelitx+": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacelitx-": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacelitz+": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacelitz-": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacex+": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacex-": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacez+": {
+		"icon": "./icons/furnace.png"
+	},
+	"furnacez-": {
+		"icon": "./icons/furnace.png"
+	},
+	"galenalead": {
+		"icon": "./icons/galenalead.png"
+	},
+	"galenasilver": {
+		"icon": "./icons/galenasilver.png"
+	},
+	"glider": {
+		"icon": "./icons/glider.png"
+	},
+	"goldcoin": {
+		"icon": "./icons/goldcoin.png"
+	},
+	"goldingot": {
+		"icon": "./icons/goldingot.png"
+	},
+	"goldore": {
+		"icon": "./icons/goldore.png"
+	},
+	"grasscolddry": {
+		"icon": "./icons/grasscolddry.png"
+	},
+	"grasscoldmid": {
+		"icon": "./icons/grasscoldmid.png"
+	},
+	"grasscoldwet": {
+		"icon": "./icons/grasscoldwet.png"
+	},
+	"grasshotdriest": {
+		"icon": "./icons/grasshotdriest.png"
+	},
+	"grasshotdry": {
+		"icon": "./icons/grasshotdry.png"
+	},
+	"grasshotmid": {
+		"icon": "./icons/grasshotmid.png"
+	},
+	"grasshotwet": {
+		"icon": "./icons/grasshotwet.png"
+	},
+	"grasstaigadry": {
+		"icon": "./icons/grasstaigadry.png"
+	},
+	"grasstaigawet": {
+		"icon": "./icons/grasstaigawet.png"
+	},
+	"grasstropicdriest": {
+		"icon": "./icons/grasstropicdriest.png"
+	},
+	"grasstropicdry": {
+		"icon": "./icons/grasstropicdry.png"
+	},
+	"grasstropicmid": {
+		"icon": "./icons/grasstropicmid.png"
+	},
+	"grasstropicwet": {
+		"icon": "./icons/grasstropicwet.png"
+	},
+	"grasstundradry": {
+		"icon": "./icons/grasstundradry.png"
+	},
+	"grasstundrawet": {
+		"icon": "./icons/grasstundrawet.png"
+	},
+	"grindstone": {
+		"icon": "./icons/grindstone.png"
+	},
+	"gunpowder": {
+		"icon": "./icons/gunpowder.png"
+	},
+	"gunpowderpouch": {
+		"icon": "./icons/gunpowderpouch.png"
+	},
+	"gunsmithshop": {
+		"icon": "./icons/gunsmithshop.png"
+	},
+	"gypsum": {
+		"icon": "./icons/gypsum.png"
+	},
+	"hollyhock": {
+		"icon": "./icons/hollyhock.png"
+	},
+	"hollyhockstage1": {
+		"icon": "./icons/hollyhockstage1.png"
+	},
+	"honey": {
+		"icon": "./icons/honey.png"
+	},
+	"ink": {
+		"icon": "./icons/ink.png"
+	},
+	"ironblock": {
+		"icon": "./icons/ironblock.png"
+	},
+	"ironingot": {
+		"icon": "./icons/ironingot.png"
+	},
+	"ironore": {
+		"icon": "./icons/ironore.png"
+	},
+	"ironrivet": {
+		"icon": "./icons/ironrivet.png"
+	},
+	"ironsword": {
+		"icon": "./icons/ironsword.png"
+	},
+	"ironwrought": {
+		"icon": "./icons/ironwrought.png"
+	},
+	"jewelry": {
+		"icon": "./icons/jewelry.png"
+	},
+	"kaolinite": {
+		"icon": "./icons/kaolinite.png"
+	},
+	"kiln": {
+		"icon": "./icons/kiln.png"
+	},
+	"kilnx+": {
+		"icon": "./icons/kiln.png"
+	},
+	"kilnx-": {
+		"icon": "./icons/kiln.png"
+	},
+	"kilnz+": {
+		"icon": "./icons/kiln.png"
+	},
+	"kilnz-": {
+		"icon": "./icons/kiln.png"
+	},
+	"lanternblue": {
+		"icon": "./icons/lanternblue.png"
+	},
+	"lanterncyan": {
+		"icon": "./icons/lanterncyan.png"
+	},
+	"lanterngreen": {
+		"icon": "./icons/lanterngreen.png"
+	},
+	"lanternorange": {
+		"icon": "./icons/lanternorange.png"
+	},
+	"lanternpink": {
+		"icon": "./icons/lanternpink.png"
+	},
+	"lanternred": {
+		"icon": "./icons/lanternred.png"
+	},
+	"lanternwhite": {
+		"icon": "./icons/lanternwhite.png"
+	},
+	"lanternyellow": {
+		"icon": "./icons/lanternyellow.png"
+	},
+	"lead": {
+		"icon": "./icons/lead.png"
+	},
+	"leadbullet": {
+		"icon": "./icons/leadbullet.png"
+	},
+	"leavesfallorange": {
+		"icon": "./icons/leavesfallorange.png"
+	},
+	"leavesfallred": {
+		"icon": "./icons/leavesfallred.png"
+	},
+	"leavesfallyellow": {
+		"icon": "./icons/leavesfallyellow.png"
+	},
+	"leavesgreendark": {
+		"icon": "./icons/leavesgreendark.png"
+	},
+	"leavesgreenlight": {
+		"icon": "./icons/leavesgreenlight.png"
+	},
+	"leavestaiga": {
+		"icon": "./icons/leavestaiga.png"
+	},
+	"linen": {
+		"icon": "./icons/linen.png"
+	},
+	"linenbag": {
+		"icon": "./icons/linenbag.png"
+	},
+	"linenpouch": {
+		"icon": "./icons/linenpouch.png"
+	},
+	"lobster": {
+		"icon": "./icons/lobsterraw.png"
+	},
+	"lobsterprepared": {
+		"icon": "./icons/lobstercooked.png"
+	},
+	"logtaiga": {
+		"icon": "./icons/logtaiga.png"
+	},
+	"logtemperate": {
+		"icon": "./icons/logtemperate.png"
+	},
+	"luxurymeal": {
+		"icon": "./icons/luxurymeal.png"
+	},
+	"matchlockgun": {
+		"icon": "./icons/matchlockgun.png"
+	},
+	"mint": {
+		"icon": "./icons/mint.png"
+	},
+	"missingerror": {
+		"icon": "./icons/error.png"
+	},
+	"newworldmeal": {
+		"icon": "./icons/newworldmeal.png"
+	},
+	"npcicon": {
+		"icon": "./icons/npc.png"
+	},
+	"npcshop": {
+		"icon": "./icons/npcshop.png"
+	},
+	"olive": {
+		"icon": "./icons/olive.png"
+	},
+	"oliveleaves": {
+		"icon": "./icons/oliveleaves.png"
+	},
+	"oliveoil": {
+		"icon": "./icons/oliveoil.png"
+	},
+	"olivesapling": {
+		"icon": "./icons/olivesapling.png"
+	},
+	"oven": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenlit": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenlitx+": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenlitx-": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenlitz+": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenlitz-": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenx+": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenx-": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenz+": {
+		"icon": "./icons/oven.png"
+	},
+	"ovenz-": {
+		"icon": "./icons/oven.png"
+	},
+	"paperempty": {
+		"icon": "./icons/paperempty.png"
+	},
+	"papertext": {
+		"icon": "./icons/papertext.png"
+	},
+	"papyrus": {
+		"icon": "./icons/papyrus.png"
+	},
+	"perpetualstew": {
+		"icon": "./icons/perpetualstew.png"
+	},
+	"planks": {
+		"icon": "./icons/planks.png"
+	},
+	"planksblue": {
+		"icon": "./icons/planksblue.png"
+	},
+	"plankscyan": {
+		"icon": "./icons/plankscyan.png"
+	},
+	"planksgreen": {
+		"icon": "./icons/planksgreen.png"
+	},
+	"planksgrey": {
+		"icon": "./icons/planksgrey.png"
+	},
+	"plankspink": {
+		"icon": "./icons/plankspink.png"
+	},
+	"planksred": {
+		"icon": "./icons/planksred.png"
+	},
+	"planksyellow": {
+		"icon": "./icons/planksyellow.png"
+	},
+	"plasterblock": {
+		"icon": "./icons/plasterblock.png"
+	},
+	"porcelainbiscuit": {
+		"icon": "./icons/porcelainbiscuit.png"
+	},
+	"porcelainglazed": {
+		"icon": "./icons/porcelainglazed.png"
+	},
+	"porcelainraw": {
+		"icon": "./icons/porcelainraw.png"
+	},
+	"potato": {
+		"icon": "./icons/potato.png"
+	},
+	"printingpress": {
+		"icon": "./icons/printingpress.png"
+	},
+	"quarterblockblack": {
+		"icon": "./icons/quarterblockblack.png"
+	},
+	"quarterblockblackx+": {
+		"icon": "./icons/quarterblockblack.png"
+	},
+	"quarterblockblackx-": {
+		"icon": "./icons/quarterblockblack.png"
+	},
+	"quarterblockblackz+": {
+		"icon": "./icons/quarterblockblack.png"
+	},
+	"quarterblockblackz-": {
+		"icon": "./icons/quarterblockblack.png"
+	},
+	"quarterblockbrowndark": {
+		"icon": "./icons/quarterblockbrowndark.png"
+	},
+	"quarterblockbrowndarkx+": {
+		"icon": "./icons/quarterblockbrowndark.png"
+	},
+	"quarterblockbrowndarkx-": {
+		"icon": "./icons/quarterblockbrowndark.png"
+	},
+	"quarterblockbrowndarkz+": {
+		"icon": "./icons/quarterblockbrowndark.png"
+	},
+	"quarterblockbrowndarkz-": {
+		"icon": "./icons/quarterblockbrowndark.png"
+	},
+	"quarterblockbrownlight": {
+		"icon": "./icons/quarterblockbrownlight.png"
+	},
+	"quarterblockbrownlightx+": {
+		"icon": "./icons/quarterblockbrownlight.png"
+	},
+	"quarterblockbrownlightx-": {
+		"icon": "./icons/quarterblockbrownlight.png"
+	},
+	"quarterblockbrownlightz+": {
+		"icon": "./icons/quarterblockbrownlight.png"
+	},
+	"quarterblockbrownlightz-": {
+		"icon": "./icons/quarterblockbrownlight.png"
+	},
+	"quarterblockgrey": {
+		"icon": "./icons/quarterblockgrey.png"
+	},
+	"quarterblockgreyx+": {
+		"icon": "./icons/quarterblockgrey.png"
+	},
+	"quarterblockgreyx-": {
+		"icon": "./icons/quarterblockgrey.png"
+	},
+	"quarterblockgreyz+": {
+		"icon": "./icons/quarterblockgrey.png"
+	},
+	"quarterblockgreyz-": {
+		"icon": "./icons/quarterblockgrey.png"
+	},
+	"quarterblockwhite": {
+		"icon": "./icons/quarterblockwhite.png"
+	},
+	"quarterblockwhitex+": {
+		"icon": "./icons/quarterblockwhite.png"
+	},
+	"quarterblockwhitex-": {
+		"icon": "./icons/quarterblockwhite.png"
+	},
+	"quarterblockwhitez+": {
+		"icon": "./icons/quarterblockwhite.png"
+	},
+	"quarterblockwhitez-": {
+		"icon": "./icons/quarterblockwhite.png"
+	},
+	"rawbeeswax": {
+		"icon": "./icons/beeswaxraw.png"
+	},
+	"rawfish": {
+		"icon": "./icons/fishraw.png"
+	},
+	"redplanks": {
+		"icon": "./icons/redplanks.png"
+	},
+	"rice": {
+		"icon": "./icons/rice.png"
+	},
+	"ricemeal": {
+		"icon": "./icons/ricemeal.png"
+	},
+	"salpeter": {
+		"icon": "./icons/salpeter.png"
+	},
+	"sand": {
+		"icon": "./icons/sand.png"
+	},
+	"saplingfallorange": {
+		"icon": "./icons/sapling.png"
+	},
+	"saplingtaiga": {
+		"icon": "./icons/sapling.png"
+	},
+	"sappling": {
+		"icon": "./icons/sapling.png"
+	},
+	"sciencebagadvanced": {
+		"icon": "./icons/sciencebagadvanced.png"
+	},
+	"sciencebagbasic": {
+		"icon": "./icons/sciencebagbasic.png"
+	},
+	"sciencebagcolony": {
+		"icon": "./icons/sciencebagcolony.png"
+	},
+	"sciencebaglife": {
+		"icon": "./icons/sciencebaglife.png"
+	},
+	"sciencebagmilitary": {
+		"icon": "./icons/sciencebagmilitary.png"
+	},
+	"sciencelab": {
+		"icon": "./icons/sciencelab.png"
+	},
+	"shop": {
+		"icon": "./icons/shop.png"
+	},
+	"silk": {
+		"icon": "./icons/silk.png"
+	},
+	"silkpillow": {
+		"icon": "./icons/silkpillow.png"
+	},
+	"silkthread": {
+		"icon": "./icons/silkthread.png"
+	},
+	"silkwormcocoon": {
+		"icon": "./icons/silkwormcocoon.png"
+	},
+	"silveringot": {
+		"icon": "./icons/silveringot.png"
+	},
+	"sling": {
+		"icon": "./icons/sling.png"
+	},
+	"slingbullet": {
+		"icon": "./icons/slingbullet.png"
+	},
+	"snow": {
+		"icon": "./icons/snow.png"
+	},
+	"spinningwheel": {
+		"icon": "./icons/spinningwheel.png"
+	},
+	"splittingstump": {
+		"icon": "./icons/splittingstump.png"
+	},
+	"steelingot": {
+		"icon": "./icons/steelingot.png"
+	},
+	"steelparts": {
+		"icon": "./icons/steelparts.png"
+	},
+	"stoneblock": {
+		"icon": "./icons/stoneblock.png"
+	},
+	"stonebricks": {
+		"icon": "./icons/stonebricks.png"
+	},
+	"stonebricksblack": {
+		"icon": "./icons/stonebricksblack.png"
+	},
+	"stonebricksbrown": {
+		"icon": "./icons/stonebricksbrown.png"
+	},
+	"stonebrickswhite": {
+		"icon": "./icons/stonebrickswhite.png"
+	},
+	"stonemasonworkbench": {
+		"icon": "./icons/stonemasonworkbench.png"
+	},
+	"stove": {
+		"icon": "./icons/stove.png"
+	},
+	"straw": {
+		"icon": "./icons/straw.png"
+	},
+	"sugar": {
+		"icon": "./icons/sugar.png"
+	},
+	"tailorshop": {
+		"icon": "./icons/tailorshop.png"
+	},
+	"tea": {
+		"icon": "./icons/tea.png"
+	},
+	"tealeavesprocessed": {
+		"icon": "./icons/tealeavesprocessed.png"
+	},
+	"tealeavesprocesseddried": {
+		"icon": "./icons/tealeavesprocesseddried.png"
+	},
+	"tealeavesraw": {
+		"icon": "./icons/tealeaves.png"
+	},
+	"technologisttable": {
+		"icon": "./icons/technologisttable.png"
+	},
+	"tin": {
+		"icon": "./icons/tin.png"
+	},
+	"tomato": {
+		"icon": "./icons/tomato.png"
+	},
+	"torch": {
+		"icon": "./icons/torch.png"
+	},
+	"torchx+": {
+		"icon": "./icons/torch.png"
+	},
+	"torchx-": {
+		"icon": "./icons/torch.png"
+	},
+	"torchy+": {
+		"icon": "./icons/torch.png"
+	},
+	"torchz+": {
+		"icon": "./icons/torch.png"
+	},
+	"torchz-": {
+		"icon": "./icons/torch.png"
+	},
+	"trader": {
+		"icon": "./icons/trader.png"
+	},
+	"undershirt": {
+		"icon": "./icons/undershirt.png"
+	},
+	"water": {
+		"icon": "./icons/water.png"
+	},
+	"waterpump": {
+		"icon": "./icons/waterpump.png"
+	},
+	"waterpumpx+": {
+		"icon": "./icons/waterpump.png"
+	},
+	"waterpumpx-": {
+		"icon": "./icons/waterpump.png"
+	},
+	"waterpumpz+": {
+		"icon": "./icons/waterpump.png"
+	},
+	"waterpumpz-": {
+		"icon": "./icons/waterpump.png"
+	},
+	"waxtablet": {
+		"icon": "./icons/waxtablet.png"
+	},
+	"wheat": {
+		"icon": "./icons/wheat.png"
+	},
+	"wheatstage1": {
+		"icon": "./icons/wheatstage1.png"
+	},
+	"wintercoat": {
+		"icon": "./icons/wintercoat.png"
+	},
+	"wolfsbane": {
+		"icon": "./icons/wolfsbane.png"
+	},
+	"wolfsbanestage1": {
+		"icon": "./icons/wolfsbanestage1.png"
+	},
+	"woodcoating": {
+		"icon": "./icons/woodcoating.png"
+	},
+	"workbench": {
+		"icon": "./icons/workbench.png"
+	},
+	"writerdesk": {
+		"icon": "./icons/writerdesk.png"
+	},
+	"writerdeskx+": {
+		"icon": "./icons/writerdesk.png"
+	},
+	"writerdeskx-": {
+		"icon": "./icons/writerdesk.png"
+	},
+	"writerdeskz+": {
+		"icon": "./icons/writerdesk.png"
+	},
+	"writerdeskz-": {
+		"icon": "./icons/writerdesk.png"
+	}
+}

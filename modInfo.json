@@ -6,7 +6,7 @@
     "enabled": true,
     "marksgamemodded": true,
     "compatibleversions": [
-      "0.7.0"
+      "0.7.1"
     ],
     "overrideAlbedoFolder": "./Textures/albedo/",
     "overrideEmissiveFolder": "./Textures/emissive/",
@@ -21,12 +21,18 @@
         "relativePath": "./Audio/audioFiles.json"
       },
       {
+		"index" : 1000,
         "fileType": "addOrOverrideTextureMappingEntries",
-        "relativePath": "Textures/texturemapping.json"
+        "relativePath": "./texture_mapping.json"
       },
       {
         "fileType": "overrideTypeProperties",
         "relativePath": "types.json"
+      },
+      {
+		"index" : 1000,
+        "fileType": "overrideTypeProperties",
+        "relativePath": "icon_mapping.json"
       },
       {
         "albedo": "base_npc_albedo.png",
