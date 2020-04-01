@@ -1,62 +1,63 @@
-﻿[
-  {
-    "name": "Pandaros.BDCraft",
-    "namepretty": "Pandaros' BDCraft Texture Pack",
-    "version": "0.1.0.3",
-    "enabled": true,
-    "marksgamemodded": true,
-    "compatibleversions": [
-      "0.7.1"
-    ],
-    "overrideAlbedoFolder": "./Textures/albedo/",
-    "overrideEmissiveFolder": "./Textures/emissive/",
-    "overrideNormalFolder": "./Textures/normal/",
-    "overrideHeightFolder": "./Textures/height/",
-    "overrideIconFolder": "./icons/",
-    "overrideAudioFolder": "./Audio/",
-    "overrideNPCFolder": "./Textures/npc/",
-    "jsonFiles": [
-      {
-        "fileType": "addOrReplaceAudio",
-        "relativePath": "./Audio/audioFiles.json"
-      },
-      {
-		"index" : 1000,
-        "fileType": "addOrOverrideTextureMappingEntries",
-        "relativePath": "./texture_mapping.json"
-      },
-      {
-        "fileType": "overrideTypeProperties",
-        "relativePath": "types.json"
-      },
-      {
-		"index" : 1000,
-        "fileType": "overrideTypeProperties",
-        "relativePath": "icon_mapping.json"
-      },
-      {
-        "albedo": "base_npc_albedo.png",
-        "fileType": "setColonistTextures",
-        "index": -99999,
-        "normal": "base_npc_normal.png",
-        "relativePath": "Textures/npc/",
-        "special": "base_npc_specu_emiss_smooth_mask.png"
-      },
-      {
-        "fileType": "generateBlocks",
-        "index": -99999,
-        "relativePath": "generateblocks.json"
-      }
-    ],
-    "website": "https://github.com/JBurlison/BDCraft",
-    "about": "Replaces in game textures and sounds with BD Craft textures.",
-    "patchnotes": [
-      {
-        "version": "0.1.0.0",
-        "notes": [
-          "Initial Release"
-        ]
-      }
+﻿[{
+  "name": "Pandaros.BDCraft",
+  "namepretty": "Pandaros' BDCraft Texture Pack",
+  "version": "0.1.0.3",
+  "enabled": true,
+  "marksgamemodded": true,
+  "compatibleversions": [
+    "0.7.1",
+    "0.7.2"
+  ],
+  "overrideAlbedoFolder": "./Textures/albedo/",
+  "overrideEmissiveFolder": "./Textures/emissive/",
+  "overrideNormalFolder": "./Textures/normal/",
+  "overrideHeightFolder": "./Textures/height/",
+  "overrideIconFolder": "./icons/",
+  "overrideAudioFolder": "./Audio/",
+  "overrideNPCFolder": "./Textures/npc/",
+  "jsonFiles": [{
+      "fileType": "addOrReplaceAudio",
+      "relativePath": "./Audio/audioFiles.json"
+    },
+    {
+      "index": 1000,
+      "fileType": "addOrOverrideTextureMappingEntries",
+      "relativePath": "./texture_mapping.json"
+    },
+    {
+      "fileType": "overrideTypeProperties",
+      "relativePath": "types.json"
+    },
+    {
+      "index": 1000,
+      "fileType": "overrideTypeProperties",
+      "relativePath": "icon_mapping.json"
+    },
+    {
+      "albedo": "base_npc_albedo.png",
+      "fileType": "setColonistTextures",
+      "index": -99999,
+      "normal": "base_npc_normal.png",
+      "relativePath": "Textures/npc/",
+      "special": "base_npc_specu_emiss_smooth_mask.png"
+    },
+    {
+      "fileType": "generateBlocks",
+      "index": -99999,
+      "relativePath": "generateblocks.json"
+    },
+    {
+      "fileType" : "addOrOverrideScience",
+      "index" : 1000,
+      "relativePath" : "science.json"
+    }
+  ],
+  "website": "https://github.com/JBurlison/BDCraft",
+  "about": "Replaces in game textures and sounds with BD Craft textures.",
+  "patchnotes": [{
+    "version": "0.1.0.0",
+    "notes": [
+      "Initial Release"
     ]
-  }
-]
+  }]
+}]

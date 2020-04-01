@@ -1,0 +1,691 @@
+[
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "biome.oldworld"
+	},
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "biome.newworld"
+	},
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "biome.fareast"
+	},
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "biome.arctic"
+	},
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "biome.tropics"
+	},
+	{
+		"icon" : "./icons/commandtool.png",
+		"key" : "pipliz.baseresearch.colonykit"
+	},
+	{
+		"icon" : "./icons/trader.png",
+		"key" : "pipliz.baseresearch.trader"
+	},
+	{
+		"icon" : "./icons/foofoo.png",
+		"key" : "pipliz.baseresearch.foofoo"
+	},
+	{
+		"icon" : "./icons/papyrus.png",
+		"key" : "pipliz.baseresearch.papyrus"
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.papyrus",
+			"pipliz.baseresearch.foofoo",
+			"pipliz.baseresearch.sugarcane",
+			"pipliz.baseresearch.diamondprocessing",
+			"pipliz.baseresearch.coffeebeans"
+		],
+		"icon" : "./icons/cacao.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"wintercoat"},
+			{"type":"tomato"},
+			{"type":"potato"}
+		],
+		"key" : "pipliz.baseresearch.cacao",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksClientHints" : [
+			{"data":"pipliz.cacaofarmer","type":"NPCType"}
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.papyrus",
+			"pipliz.baseresearch.foofoo",
+			"pipliz.baseresearch.sugarcane",
+			"pipliz.baseresearch.diamondprocessing",
+			"pipliz.baseresearch.coffeebeans"
+		],
+		"icon" : "./icons/vanilla.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"wintercoat"},
+			{"type":"tomato"},
+			{"type":"potato"}
+		],
+		"key" : "pipliz.baseresearch.vanilla",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksClientHints" : [
+			{"data":"pipliz.vanillafarmer","type":"NPCType"}
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.vanilla"
+		],
+		"icon" : "./icons/cookies.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"flour"},
+			{"type":"sugar"},
+			{"type":"vanilla"}
+		],
+		"key" : "pipliz.baseresearch.cookies",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksRecipes" : [
+			"cook.cookies"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.cacao"
+		],
+		"icon" : "./icons/chocolate.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"cacao"},
+			{"type":"sugar"},
+			{"type":"vanilla"}
+		],
+		"key" : "pipliz.baseresearch.chocolate",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksRecipes" : [
+			"cook.chocolate"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.foofoo"
+		],
+		"icon" : "./icons/sugarcane.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"foofoo"}
+		],
+		"key" : "pipliz.baseresearch.sugarcane",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksClientHints" : [
+			{"data":"pipliz.sugarcanefarmer","type":"NPCType"}
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.sugarcane",
+			"pipliz.baseresearch.papyrus",
+			"pipliz.baseresearch.coffeebeans"
+		],
+		"icon" : "./icons/diamond.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"coffeebeans"},
+			{"type":"sugar"},
+			{"type":"papyrus"}
+		],
+		"key" : "pipliz.baseresearch.diamondprocessing",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksRecipes" : [
+			"pipliz.metalsmith.diamondnecklace"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.foofoo"
+		],
+		"icon" : "./icons/coffeebeans.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"foofoo"}
+		],
+		"key" : "pipliz.baseresearch.coffeebeans",
+		"requiredScienceBiome" : "sciencebiome.tropics",
+		"unlocksClientHints" : [
+			{"data":"pipliz.coffeebeanfarmer","type":"NPCType"}
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.chickenfarmer"
+		],
+		"icon" : "./icons/newworldmeal.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"potato"},
+			{"type":"tomato"},
+			{"type":"chickenmeat"}
+		],
+		"key" : "pipliz.baseresearch.newworldmeal",
+		"requiredScienceBiome" : "sciencebiome.newworld",
+		"unlocksRecipes" : [
+			"cook.newworldmeal"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.tailorshop",
+			"pipliz.baseresearch.newworldmeal"
+		],
+		"icon" : "./icons/spinningwheel.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"newworldmeal"}
+		],
+		"key" : "pipliz.baseresearch.spinningwheel.newworld",
+		"requiredScienceBiome" : "sciencebiome.newworld",
+		"unlocksClientHints" : [
+			{"data":"pipliz.cottonfarmer","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.spinningwheelnewworld",
+			"pipliz.tailor.cotton",
+			"wheelspinner.cottonthread"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.spinningwheel.newworld"
+		],
+		"icon" : "./icons/cottontowel.png",
+		"iterationCount" : 3,
+		"iterationRequirements" : [
+			{"type":"cotton"}
+		],
+		"key" : "pipliz.baseresearch.cottontowel",
+		"requiredScienceBiome" : "sciencebiome.newworld",
+		"unlocksRecipes" : [
+			"pipliz.tailor.cottontowel"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.bronzeminting",
+			"pipliz.baseresearch.fineryforge"
+		],
+		"icon" : "./icons/fur.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"goldcoin"}
+		],
+		"key" : "pipliz.baseresearch.fur",
+		"requiredScienceBiome" : "sciencebiome.newworld",
+		"unlocksRecipes" : [
+			"pipliz.merchant.fur"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.fur"
+		],
+		"icon" : "./icons/wintercoat.png",
+		"iterationCount" : 5,
+		"iterationRequirements" : [
+			{"type":"fur"}
+		],
+		"key" : "pipliz.baseresearch.wintercoat",
+		"requiredScienceBiome" : "sciencebiome.newworld",
+		"unlocksRecipes" : [
+			"pipliz.tailor.wintercoat"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.cabbagefarmer",
+			"pipliz.baseresearch.chickenfarmer"
+		],
+		"icon" : "./icons/rice.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"berry"}
+		],
+		"key" : "pipliz.baseresearch.ricefarmer",
+		"requiredScienceBiome" : "sciencebiome.fareast",
+		"unlocksClientHints" : [
+			{"data":"pipliz.ricefarmer","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"cook.ricemeal"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.ricefarmer"
+		],
+		"icon" : "./icons/silkwormcocoon.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"ricemeal"}
+		],
+		"key" : "pipliz.baseresearch.silkwormfarmer",
+		"requiredScienceBiome" : "sciencebiome.fareast",
+		"unlocksRecipeGroups" : [
+			"pipliz.silkwormfarmer"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.silkwormfarmer"
+		],
+		"icon" : "./icons/spinningwheel.png",
+		"iterationCount" : 25,
+		"iterationRequirements" : [
+			{"type":"silkwormcocoon"}
+		],
+		"key" : "pipliz.baseresearch.spinningwheel.fareast",
+		"requiredScienceBiome" : "sciencebiome.fareast",
+		"unlocksRecipes" : [
+			"pipliz.tailor.silk",
+			"pipliz.tailor.silkpillow",
+			"pipliz.crafter.spinningwheelfareast",
+			"wheelspinner.silkthread"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.ricefarmer"
+		],
+		"icon" : "./icons/porcelainraw.png",
+		"iterationCount" : 25,
+		"iterationRequirements" : [
+			{"type":"ricemeal"}
+		],
+		"key" : "pipliz.baseresearch.porcelain",
+		"requiredScienceBiome" : "sciencebiome.fareast",
+		"unlocksRecipes" : [
+			"pipliz.stonemason.porcelainraw",
+			"pipliz.kiln.porcelainbiscuit",
+			"pipliz.kiln.porcelainglazed"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.ricefarmer"
+		],
+		"icon" : "./icons/tea.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"ricemeal"}
+		],
+		"key" : "pipliz.baseresearch.teafarmer",
+		"requiredScienceBiome" : "sciencebiome.fareast",
+		"unlocksRecipeGroups" : [
+			"pipliz.teafarmer"
+		],
+		"unlocksRecipes" : [
+			"pipliz.grinder.tealeavesprocessed",
+			"pipliz.grinder.tealeavesprocesseddried",
+			"cook.tea"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.flaxfarming"
+		],
+		"icon" : "./icons/beehive.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"flax"}
+		],
+		"key" : "pipliz.baseresearch.beekeeper",
+		"unlocksRecipeGroups" : [
+			"pipliz.beekeeper"
+		],
+		"unlocksRecipes" : [
+			"pipliz.baker.beeswax",
+			"pipliz.crafter.bowstring"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.beekeeper",
+			"pipliz.baseresearch.tailorshop"
+		],
+		"icon" : "./icons/candle.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"linen"},
+			{"type":"beeswax"}
+		],
+		"key" : "pipliz.baseresearch.candles",
+		"unlocksRecipes" : [
+			"pipliz.beekeeper.candle"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.candles",
+			"pipliz.baseresearch.sciencebagbasic",
+			"pipliz.baseresearch.ironsmelting"
+		],
+		"icon" : "./icons/waxtablet.png",
+		"iterationCount" : 25,
+		"iterationRequirements" : [
+			{"type":"sciencebagbasic"},
+			{"type":"coatedplanks"},
+			{"amount":2,"type":"ironrivet"},
+			{"amount":5,"type":"beeswax"}
+		],
+		"key" : "pipliz.baseresearch.waxtablet",
+		"unlocksRecipes" : [
+			"pipliz.crafter.waxtablet"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.beekeeper"
+		],
+		"icon" : "./icons/olive.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"rawbeeswax"}
+		],
+		"key" : "pipliz.baseresearch.olivefarmer",
+		"unlocksClientHints" : [
+			{"data":"pipliz.olivefarmer","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"pipliz.grinder.oliveoil",
+			"pipliz.olivefarmer.gatherolive",
+			"pipliz.crafter.woodcoating",
+			"pipliz.crafter.adobe",
+			"pipliz.crafter.coatedplanks"
+		]
+	},
+	{
+		"icon" : "./icons/bucketwater.png",
+		"iterationCount" : 5,
+		"iterationRequirements" : [
+			{"type":"planks"},
+			{"amount":4,"type":"coppernails"},
+			{"amount":2,"type":"copperparts"}
+		],
+		"key" : "pipliz.baseresearch.watergatherer",
+		"unlocksRecipeGroups" : [
+			"pipliz.watergatherer"
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.bucketempty"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.watergatherer",
+			"pipliz.baseresearch.bronzeanvil"
+		],
+		"icon" : "./icons/waterpump.png",
+		"iterationCount" : 3,
+		"iterationRequirements" : [
+			{"amount":5,"type":"bronzeingot"},
+			{"amount":20,"type":"coppernails"}
+		],
+		"key" : "pipliz.baseresearch.waterpump",
+		"unlocksRecipeGroups" : [
+			"pipliz.waterpump"
+		],
+		"unlocksRecipes" : [
+			"pipliz.metalsmith.waterpump"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.olivefarmer"
+		],
+		"icon" : "./icons/fishcooked.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"olive"}
+		],
+		"key" : "pipliz.baseresearch.fisherman",
+		"unlocksRecipeGroups" : [
+			"pipliz.fisherman",
+			"pipliz.fishfarmer"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.fisherman"
+		],
+		"icon" : "./icons/stove.png",
+		"iterationCount" : 20,
+		"iterationRequirements" : [
+			{"type":"oliveoil"},
+			{"type":"rawfish"},
+			{"type":"firewood"}
+		],
+		"key" : "pipliz.baseresearch.cook",
+		"unlocksRecipeGroups" : [
+			"pipliz.cook"
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.stove"
+		]
+	},
+	{
+		"icon" : "./icons/cabbage.png",
+		"key" : "pipliz.baseresearch.cabbagefarmer"
+	},
+	{
+		"icon" : "./icons/barley.png",
+		"key" : "pipliz.baseresearch.barleyfarmer"
+	},
+	{
+		"icon" : "./icons/chickencoop.png",
+		"key" : "pipliz.baseresearch.chickenfarmer"
+	},
+	{
+		"icon" : "./icons/coffee.png",
+		"key" : "pipliz.baseresearch.coffee"
+	},
+	{
+		"icon" : "./icons/writerdesk.png",
+		"key" : "pipliz.baseresearch.writer"
+	},
+	{
+		"icon" : "./icons/glider.png",
+		"key" : "pipliz.baseresearch.glider"
+	},
+	{
+		"icon" : "./icons/book.png",
+		"key" : "pipliz.baseresearch.printingpress"
+	},
+	{
+		"icon" : "./icons/bow.png",
+		"key" : "pipliz.baseresearch.archery"
+	},
+	{
+		"icon" : "./icons/bronzeanvil.png",
+		"key" : "pipliz.baseresearch.bronzeanvil"
+	},
+	{
+		"icon" : "./icons/bronzecoin.png",
+		"key" : "pipliz.baseresearch.bronzeminting"
+	},
+	{
+		"icon" : "./icons/crossbow.png",
+		"key" : "pipliz.baseresearch.crossbow"
+	},
+	{
+		"icon" : "./icons/dyertable.png",
+		"key" : "pipliz.baseresearch.dyertable"
+	},
+	{
+		"icon" : "./icons/fineryforge.png",
+		"key" : "pipliz.baseresearch.fineryforge"
+	},
+	{
+		"icon" : "./icons/gunsmithshop.png",
+		"key" : "pipliz.baseresearch.gunsmithshop"
+	},
+	{
+		"icon" : "./icons/ironwrought.png",
+		"key" : "pipliz.baseresearch.ironsmelting"
+	},
+	{
+		"icon" : "./icons/lanternyellow.png",
+		"key" : "pipliz.baseresearch.lantern"
+	},
+	{
+		"icon" : "./icons/matchlockgun.png",
+		"key" : "pipliz.baseresearch.matchlockgun"
+	},
+	{
+		"icon" : "./icons/sciencebagadvanced.png",
+		"key" : "pipliz.baseresearch.sciencebagadvanced"
+	},
+	{
+		"icon" : "./icons/sciencebagbasic.png",
+		"key" : "pipliz.baseresearch.sciencebagbasic"
+	},
+	{
+		"icon" : "./icons/sciencebagcolony.png",
+		"key" : "pipliz.baseresearch.sciencebagcolony"
+	},
+	{
+		"icon" : "./icons/sciencebaglife.png",
+		"key" : "pipliz.baseresearch.sciencebaglife"
+	},
+	{
+		"icon" : "./icons/sciencebagmilitary.png",
+		"key" : "pipliz.baseresearch.sciencebagmilitary"
+	},
+	{
+		"icon" : "./icons/splittingstump.png",
+		"key" : "pipliz.baseresearch.splittingstump"
+	},
+	{
+		"icon" : "./icons/stonemasonworkbench.png",
+		"key" : "pipliz.baseresearch.stonemasonworkbench"
+	},
+	{
+		"icon" : "./icons/tailorshop.png",
+		"key" : "pipliz.baseresearch.tailorshop"
+	},
+	{
+		"icon" : "./icons/technologisttable.png",
+		"key" : "pipliz.baseresearch.technologisttable"
+	},
+	{
+		"icon" : "./icons/bannerradius1.png",
+		"key" : "pipliz.baseresearch.bannerradius1"
+	},
+	{
+		"icon" : "./icons/bannerradius2.png",
+		"key" : "pipliz.baseresearch.bannerradius2"
+	},
+	{
+		"icon" : "./icons/bannerradius3.png",
+		"key" : "pipliz.baseresearch.bannerradius3"
+	},
+	{
+		"icon" : "./icons/bannerradius4.png",
+		"key" : "pipliz.baseresearch.bannerradius4"
+	},
+	{
+		"icon" : "./icons/bannerradius5.png",
+		"key" : "pipliz.baseresearch.bannerradius5"
+	},
+	{
+		"icon" : "./icons/bannerradius6.png",
+		"key" : "pipliz.baseresearch.bannerradius6"
+	},
+	{
+		"icon" : "./icons/bannerradius7.png",
+		"key" : "pipliz.baseresearch.bannerradius7"
+	},
+	{
+		"icon" : "./icons/baseresearch_healthsize1.png",
+		"key" : "pipliz.baseresearch.liferesearch1"
+	},
+	{
+		"icon" : "./icons/baseresearch_healthsize2.png",
+		"key" : "pipliz.baseresearch.liferesearch2"
+	},
+	{
+		"icon" : "./icons/baseresearch_healthsize3.png",
+		"key" : "pipliz.baseresearch.liferesearch3"
+	},
+	{
+		"icon" : "./icons/baseresearch_healthsize4.png",
+		"key" : "pipliz.baseresearch.liferesearch4"
+	},
+	{
+		"icon" : "./icons/flax.png",
+		"key" : "pipliz.baseresearch.flaxfarming"
+	},
+	{
+		"icon" : "./icons/alkanet.png",
+		"key" : "pipliz.baseresearch.herbfarming"
+	},
+	{
+		"icon" : "./icons/bread.png",
+		"key" : "pipliz.baseresearch.wheatfarming"
+	},
+	{
+		"icon" : "./icons/bricksred.png",
+		"key" : "pipliz.baseresearch.constructionbuilder"
+	},
+	{
+		"icon" : "./icons/buildersize1.png",
+		"key" : "pipliz.baseresearch.constructionbuildersize1"
+	},
+	{
+		"icon" : "./icons/buildersize2.png",
+		"key" : "pipliz.baseresearch.constructionbuildersize2"
+	},
+	{
+		"icon" : "./icons/buildersize3.png",
+		"key" : "pipliz.baseresearch.constructionbuildersize3"
+	},
+	{
+		"icon" : "./icons/buildersize4.png",
+		"key" : "pipliz.baseresearch.constructionbuildersize4"
+	},
+	{
+		"icon" : "./icons/buildersize5.png",
+		"key" : "pipliz.baseresearch.constructionbuildersize5"
+	},
+	{
+		"icon" : "./icons/bronzepickaxe.png",
+		"key" : "pipliz.baseresearch.constructiondigger"
+	},
+	{
+		"icon" : "./icons/diggersize1.png",
+		"key" : "pipliz.baseresearch.constructiondiggersize1"
+	},
+	{
+		"icon" : "./icons/diggersize2.png",
+		"key" : "pipliz.baseresearch.constructiondiggersize2"
+	},
+	{
+		"icon" : "./icons/diggersize3.png",
+		"key" : "pipliz.baseresearch.constructiondiggersize3"
+	},
+	{
+		"icon" : "./icons/diggersize4.png",
+		"key" : "pipliz.baseresearch.constructiondiggersize4"
+	},
+	{
+		"icon" : "./icons/diggersize5.png",
+		"key" : "pipliz.baseresearch.constructiondiggersize5"
+	},
+	{
+		"icon" : "./icons/bronzeaxe.png",
+		"key" : "pipliz.baseresearch.constructiondiggerspecial"
+	}
+]
