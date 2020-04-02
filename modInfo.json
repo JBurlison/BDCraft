@@ -1,7 +1,7 @@
 ﻿[{
   "name": "Pandaros.BDCraft",
   "namepretty": "Pandaros' BDCraft Texture Pack",
-  "version": "0.1.0.3",
+  "version": "0.1.0.4",
   "enabled": true,
   "marksgamemodded": true,
   "compatibleversions": [
@@ -20,16 +20,17 @@
       "relativePath": "./Audio/audioFiles.json"
     },
     {
-      "index": 1000,
+      "index" : -99999,
       "fileType": "addOrOverrideTextureMappingEntries",
       "relativePath": "./texture_mapping.json"
     },
     {
+      "index" : -99999,
       "fileType": "overrideTypeProperties",
       "relativePath": "types.json"
     },
     {
-      "index": 1000,
+      "index" : -99999,
       "fileType": "overrideTypeProperties",
       "relativePath": "icon_mapping.json"
     },
@@ -47,13 +48,29 @@
       "relativePath": "generateblocks.json"
     },
     {
+      "fileType": "addOrOverrideLocalization",
+      "relativePath": "localization/en-US/en-US.json",
+      "index": -99999
+    },
+    {
       "fileType" : "addOrOverrideScience",
-      "index" : 1000,
+      "index" : -99999,
       "relativePath" : "science.json"
+    },
+    {
+      "fileType" : "addOrReplaceNPCTypes",
+      "index" : -99999,
+      "relativePath" : "npcTypes.json"
+    },
+    {
+      "fileType": "addOrReplaceNPCRecipes",
+      "relativePath": "stonemasonry.json",
+      "index": -99999,
+      "npcType": "pipliz.stonemason"
     }
   ],
   "website": "https://github.com/JBurlison/BDCraft",
-  "about": "Replaces in game textures and sounds with BD Craft textures.",
+  "description": "Replaces in game textures and sounds with BD Craft textures.",
   "patchnotes": [{
     "version": "0.1.0.0",
     "notes": [

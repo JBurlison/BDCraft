@@ -1,0 +1,128 @@
+[
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoa.png",
+			"initialHealth" : 100,
+			"movementSpeed" : 1.3,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 30,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsteraa",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoa.png",
+			"initialHealth" : 100,
+			"movementSpeed" : 1.8,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 30,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterab",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoa.png",
+			"initialHealth" : 100,
+			"movementSpeed" : 2.3,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 30,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterac",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedob.png",
+			"initialHealth" : 300,
+			"movementSpeed" : 1.3,
+			"normal" : "./textures/npc/base_npc_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 40,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterba",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedob.png",
+			"initialHealth" : 300,
+			"movementSpeed" : 1.8,
+			"normal" : "./textures/npc/base_npc_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 40,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterbb",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedob.png",
+			"initialHealth" : 300,
+			"movementSpeed" : 2.3,
+			"normal" : "./textures/npc/base_npc_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 40,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterbc",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoc.png",
+			"initialHealth" : 500,
+			"movementSpeed" : 1.3,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 60,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monsterca",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoc.png",
+			"initialHealth" : 500,
+			"movementSpeed" : 1.8,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 60,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monstercb",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	},
+	{
+		"data" : {
+			"albedo" : "./textures/npc/base_monster_albedoc.png",
+			"initialHealth" : 500,
+			"movementSpeed" : 2.3,
+			"normal" : "./textures/npc/monster_a_normal.png",
+			"punchCooldownMS" : 2000,
+			"punchDamage" : 60,
+			"special" : "./textures/npc/base_monster_specu_emiss_smooth_mask.png"
+		},
+		"keyName" : "pipliz.monstercc",
+		"npcType" : "monster",
+		"printName" : "Monster"
+	}
+]

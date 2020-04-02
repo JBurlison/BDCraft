@@ -1,0 +1,20 @@
+[
+  {
+    "name": "quarterblockbricks",
+    "results": [
+      {
+        "amount": 4,
+        "type": "quarterblockbricks"
+      }
+    ],
+    "requires": [
+      {
+        "type": "bricks",
+        "amount": 1
+      }
+    ],
+    "npcCraftable": true,
+    "defaultLimit": 8,
+    "defaultPriority": -100
+  }
+]

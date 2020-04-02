@@ -2,24 +2,29 @@
   "stove": {
     "sideall": "stoveside",
     "sidey+": "stovetop",
-    "sidey-": "stovebottom"
+    "sidey-": "stovebottom",
+    "mesh" : "./neutral"
   },
   "grindstone": {
     "sideall": "planks",
-    "sidey+": "grindstone"
+    "sidey+": "grindstone",
+    "mesh" : "./neutral"
   },
   "chickencoop": {
     "sideall": "chickencoopside",
     "sidey+": "chickencooptop",
-    "sidex+": "chickencoopfront"
+    "sidex+": "chickencoopfront",
+    "mesh" : "./neutral"
   },
   "beehive": {
     "sideall": "SELF",
     "sidey+": "beehivetop",
-    "sidey-": "beehiveBottom"
+    "sidey-": "beehiveBottom",
+    "mesh" : "./neutral"
   },
   "npcshop": {
-    "sideall": "SELF"
+    "sideall": "SELF",
+    "mesh" : "./neutral"
   },
   "straw": {
     "sidex+": "strawSide",
